@@ -47,7 +47,7 @@
     {
       "binding": "D1_DATA",       // ← 请勿修改 binding 名称
       "database_name": "openlist-prod-db",        // ← 填入你在 CF 控制台创建的 D1 数据库名称
-      "database_id": "3e1cfe00-9cc4-4fe1-941d-908ca281ffdf"           // ← 填入你在 CF 控制台创建的 D1 数据库 UUID
+      "database_id": "4a85999a-a775-4a77-99b0-b769bdeeb21c"           // ← 填入你在 CF 控制台创建的 D1 数据库 UUID
     }
   ],
 
